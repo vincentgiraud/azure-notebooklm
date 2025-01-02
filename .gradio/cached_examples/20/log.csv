@@ -1,0 +1,118 @@
+🔊 Podcast,📜 Transcript,timestamp
+"{""path"": "".gradio/cached_examples/20/ Podcast/908aed027c3a4410c276/lbrcgnew.wav"", ""url"": ""/gradio_api/file=/tmp/gradio/1ab4e7b6c3ce401fa2337c4e9a238c956465c52793686940bda2dd06d95247ce/lbrcgnew.wav"", ""size"": null, ""orig_name"": ""lbrcgnew.wav"", ""mime_type"": null, ""is_stream"": false, ""meta"": {""_type"": ""gradio.FileData""}}","**Host**: Welcome, Dr. Yoon! KSTAR's been making waves, huh?
+
+**Dr. Yoon Si-woo**: Hi Jane! Yes, it's been an exciting time for us.
+
+**Host**: So, this 'artificial sun'—what's the latest buzz?
+
+**Dr. Yoon Si-woo**: We hit 48 seconds at 100 million degrees! A big leap.
+
+**Host**: That's hotter than my coffee! How'd you pull it off?
+
+**Dr. Yoon Si-woo**: Tungsten diverter. It handles heat way better than carbon.
+
+**Host**: Tungsten, huh? What's its secret sauce?
+
+**Dr. Yoon Si-woo**: It withstands extreme heat, perfect for long plasma runs.
+
+**Host**: And you managed 102 seconds in high-performance mode?
+
+**Dr. Yoon Si-woo**: Yes, it's crucial for stable, high-density plasma.
+
+**Host**: What hurdles do you face with these experiments?
+
+**Dr. Yoon Si-woo**: Energy loss from impurities is tough, but tech is evolving.
+
+**Host**: What's next for KSTAR? Any big dreams?
+
+**Dr. Yoon Si-woo**: By 2026, we're aiming for 300 seconds at 100 million degrees!
+
+**Host**: Wow, ambitious! How does KSTAR stack up globally?
+
+**Dr. Yoon Si-woo**: We're leading in long-duration plasma, setting benchmarks.
+
+**Host**: Amazing work, Dr. Yoon. Thanks for sharing with us!
+
+**Dr. Yoon Si-woo**: Thank you, Jane! Always a pleasure to chat.",2025-01-02 15:22:07.365991
+"{""path"": "".gradio/cached_examples/20/ Podcast/24af072fa7d0626377a3/kmlqlmwv.wav"", ""url"": ""/gradio_api/file=/tmp/gradio/ed5214c98960980195afa6991817c1317feff802949378ad7530860593354859/kmlqlmwv.wav"", ""size"": null, ""orig_name"": ""kmlqlmwv.wav"", ""mime_type"": null, ""is_stream"": false, ""meta"": {""_type"": ""gradio.FileData""}}","**Host**: 안녕하세요, 홍길동 박사님! K-STAR에 대해 이야기 나눠볼까요?
+
+**홍길동**: 안녕하세요, 제인! 네, K-STAR의 최근 성과가 정말 흥미롭습니다.
+
+**Host**: 1억도 플라즈마를 48초 동안 유지했다면서요?
+
+**홍길동**: 맞아요! 마치 태양을 잠시 지구에 가져온 느낌이죠.
+
+**Host**: 와, 정말 대단하네요. 텅스텐 디버터가 중요한 역할을 했다고요?
+
+**홍길동**: 네, 텅스텐은 열에 강해서 장시간 운전에 유리합니다.
+
+**Host**: 그럼에도 불구하고, 불순물 문제는 어떻게 해결했나요?
+
+**홍길동**: 운전 기술을 개선해서 에너지 손실을 최소화했어요.
+
+**Host**: K-STAR의 최종 목표는 무엇인가요?
+
+**홍길동**: 2026년까지 1억도 플라즈마를 300초 유지하는 것입니다.
+
+**Host**: 와, 정말 큰 도전이네요! 인공지능도 사용한다고요?
+
+**홍길동**: 네, 실시간 피드백 제어 기술을 개발 중입니다.
+
+**Host**: 흥미롭네요. 마지막으로, 핵융합의 미래는 어떻게 보시나요?
+
+**홍길동**: 밝습니다! ITER 실험과 실증로 건설에 큰 도움이 될 거예요.
+
+**Host**: 오늘 정말 유익한 시간이었어요. 감사합니다, 홍길동 박사님!
+
+**홍길동**: 저도 감사합니다, 제인! 언제든지 불러주세요.
+
+**Host**: 청취자 여러분, 다음에 또 만나요! 안녕히 계세요.",2025-01-02 15:23:08.837409
+"{""path"": "".gradio/cached_examples/20/ Podcast/af39fd2c4ae46fcd6c6f/gbxsuzpi.wav"", ""url"": ""/gradio_api/file=/tmp/gradio/c5456845cefce5f7352fe0a7e071aecfe44023623d59b995ec1daf2991851b89/gbxsuzpi.wav"", ""size"": null, ""orig_name"": ""gbxsuzpi.wav"", ""mime_type"": null, ""is_stream"": false, ""meta"": {""_type"": ""gradio.FileData""}}","**Host**: 안녕하세요, 여러분! 오늘은 핵융합 에너지에 대해 이야기해볼게요.
+
+**Beom Seok Kim**: 안녕하세요, 저는 김범석입니다. K-DEMO 프로젝트에 대해 말씀드리겠습니다.
+
+**Host**: K-DEMO가 뭔가요? 쉽게 설명해 주실 수 있나요?
+
+**Beom Seok Kim**: K-DEMO는 한국의 핵융합 실험로로, 2.2GW 출력을 목표로 합니다.
+
+**Host**: 와, 정말 대단하네요! 그런데 방사능은 어떻게 관리하나요?
+
+**Beom Seok Kim**: 방사능은 융합 중성자에 의해 발생하며, 철저한 관리가 필요합니다.
+
+**Host**: 왜 방사능 관리가 그렇게 중요한가요?
+
+**Beom Seok Kim**: 방사능은 유지보수와 폐기물 처리에 큰 영향을 미칩니다.
+
+**Host**: 그렇다면, 붕괴열은 어떻게 관리하나요?
+
+**Beom Seok Kim**: 붕괴열은 플라즈마 종료 후 발생하며, 냉각 시간이 중요합니다.
+
+**Host**: 냉각 시간이요? 좀 더 설명해 주시겠어요?
+
+**Beom Seok Kim**: 네, 충분한 냉각 시간이 있어야 열로 인한 손상을 막을 수 있습니다.
+
+**Host**: 마치 뜨거운 엔진을 식히는 것과 비슷하군요!
+
+**Beom Seok Kim**: 맞아요, 적절한 냉각이 없으면 문제가 생길 수 있죠.
+
+**Host**: K-DEMO에서는 어떤 냉각 방식을 사용하나요?
+
+**Beom Seok Kim**: 물로 냉각하는 세라믹 브리더 블랭킷과 디버터를 사용합니다.
+
+**Host**: 세라믹 브리더 블랭킷이요? 그게 뭔가요?
+
+**Beom Seok Kim**: 세라믹 브리더 블랭킷은 중성자를 흡수하고 열을 전달합니다.
+
+**Host**: 그렇군요. 이 기술의 미래는 어떻게 보시나요?
+
+**Beom Seok Kim**: 핵융합은 청정 에너지원으로, 미래에 큰 역할을 할 것입니다.
+
+**Host**: 정말 흥미롭네요! 마지막으로 하고 싶은 말씀이 있으신가요?
+
+**Beom Seok Kim**: 핵융합은 안전하고 지속 가능한 에너지를 제공합니다.
+
+**Host**: 오늘 함께해 주셔서 감사합니다, 김범석 박사님.
+
+**Beom Seok Kim**: 초대해 주셔서 감사합니다. 즐거운 시간이었습니다.
+
+**Host**: 청취자 여러분, 다음 시간에 또 만나요! 안녕히 계세요.",2025-01-02 15:24:35.104818

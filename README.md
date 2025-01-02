@@ -6,6 +6,8 @@ An Azure version of `Open NotebookLM` using Azure OpenAI and Azure AI Speech.
 
 See original [Open NotebookLM](https://github.com/gabrielchua/open-notebooklm) for more information.
 
+![Azure NotebookLM](./azure-notebooklm.png)
+
 ## Prep
 
 Provision following Azure resouces before running the app.

@@ -130,15 +130,30 @@ def generate_podcast(
     transcript = ""
     total_characters = 0
 
+    voice: dict[str, dict[str, dict[str, str]]] = {
+        "English": {
+            "host": {"voice": "en-us-Emma2:DragonHDLatestNeural"},
+            "guest": {"voice": "en-us-Andrew2:DragonHDLatestNeural"}
+        },
+        "German": {
+            "host": {"voice": "de-DE-Seraphina:DragonHDLatestNeural"},
+            "guest": {"voice": "de-DE-Florian:DragonHDLatestNeural"}
+        },
+        "French": {
+            "host": {"voice": "fr-FR-Vivienne:DragonHDLatestNeural"},
+            "guest": {"voice": "fr-FR-Remy:DragonHDLatestNeural"}
+        }
+    }
+
     ssml = "<speak version='1.0' xmlns='http://www.w3.org/2001/10/synthesis' xmlns:mstts='https://www.w3.org/2001/mstts' xml:lang='en-US'>"
 
     for line in llm_output.dialogue:
-        if line.speaker == "Host (Jane)":
+        if line.speaker == "Host (Alice)":
             speaker = f"**Host**: {line.text}"
-            ssml += f"\n<voice name='en-us-Ava:DragonHDLatestNeural'>{line.text}</voice>"
+            ssml += f"\n<voice name='{voice[language]['host']['voice']}'>{line.text}</voice>"
         else:
             speaker = f"**{llm_output.name_of_guest}**: {line.text}"
-            ssml += f"\n<voice name='en-us-Andrew2:DragonHDLatestNeural'>{line.text}</voice>"
+            ssml += f"\n<voice name='{voice[language]['guest']['voice']}'>{line.text}</voice>"
         transcript += speaker + "\n\n"
 
     ssml += "</speak>"

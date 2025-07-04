@@ -36,7 +36,7 @@ from schema import ShortDialogue, MediumDialogue
 # Initialize clients
 client = AzureOpenAI(
             api_key=os.environ['AZURE_OPENAI_KEY'],
-            api_version='2024-10-01-preview',
+            api_version=os.environ['AZURE_OPENAI_VERSION'],
             azure_endpoint=os.environ['AZURE_OPENAI_ENDPOINT']
         )
 

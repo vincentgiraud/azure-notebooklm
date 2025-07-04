@@ -24,14 +24,16 @@ from dotenv import load_dotenv
 load_dotenv()
 
 from typing import Literal, List
-
+from 
 from pydantic import BaseModel, Field
 
 
 class DialogueItem(BaseModel):
     """A single dialogue item."""
 
-    speaker: Literal["Host (Jane)", "Guest"]
+    speaker: Literal["Host (Alice)", "Guest (Franck)"] = Field(
+        ..., description="The speaker of the dialogue item, either 'Host (Alice)' or 'Guest (Franck)'"
+    )
     text: str
 
 
@@ -59,7 +61,7 @@ JSON_RETRY_ATTEMPTS = 3
 # Initialize clients
 client = AzureOpenAI(
             api_key=os.environ['AZURE_OPENAI_KEY'],
-            api_version='2024-10-01-preview',
+            api_version=os.environ['AZURE_OPENAI_VERSION'],
             azure_endpoint=os.environ['AZURE_OPENAI_ENDPOINT']
         )
 

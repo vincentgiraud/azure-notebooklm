@@ -10,9 +10,10 @@ from pydantic import BaseModel, Field
 class DialogueItem(BaseModel):
     """A single dialogue item."""
 
-    speaker: Literal["Host (Jane)", "Guest"]
+    speaker: Literal["Host (Alice)", "Guest (Franck)"] = Field(
+        ..., description="The speaker of the dialogue item, either 'Host (Alice)' or 'Guest (Franck)'"
+    )
     text: str
-
 
 class ShortDialogue(BaseModel):
     """The dialogue between the host and guest."""

@@ -31,7 +31,8 @@ JINA_RETRY_DELAY = 5  # in seconds
 # Suno related constants
 LANGUAGE_MAPPING = {
     "English": "en",
-    "Korean": "ko"
+    "German": "de",
+    "French": "fr",
 }
 
 # UI-related constants
@@ -99,21 +100,12 @@ UI_EXAMPLES = [
         True,
     ],
     [
-        [str(Path("examples/KFE_news_sample.pdf"))],
-        "",
-        "Use K-STAR instead of KSTAR, Use guest name 홍길동",
-        "Fun",
-        "Short (1-2 min)",
-        "Korean",
-        True,
-    ],
-    [
         [str(Path("examples/KFE_paper_sample.pdf"))],
         "",
         "",
         "Fun",
         "Medium (3-5 min)",
-        "Korean",
+        "English",
         True,
     ],
 ]

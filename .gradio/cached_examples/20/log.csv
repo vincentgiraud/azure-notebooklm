@@ -116,3 +116,117 @@
 **Beom Seok Kim**: 초대해 주셔서 감사합니다. 즐거운 시간이었습니다.
 
 **Host**: 청취자 여러분, 다음 시간에 또 만나요! 안녕히 계세요.",2025-01-02 15:24:35.104818
+"{""path"": "".gradio\\cached_examples\\20\\ Podcast\\2597306a25bce61a451d\\mjeiwjkx.wav"", ""url"": ""/gradio_api/file=C:\\Users\\vgiraud\\AppData\\Local\\Temp\\gradio\\8e166fceb6e75b311cf4a3648b3dba9a75d03b6d17aa8c0eca5a4ec290ce01b2\\mjeiwjkx.wav"", ""size"": null, ""orig_name"": ""mjeiwjkx.wav"", ""mime_type"": null, ""is_stream"": false, ""meta"": {""_type"": ""gradio.FileData""}}","**Host**: Hey everyone! Welcome back to Science Unplugged. I'm Jane, your host for today.
+
+**Host**: We're diving into the world of fusion reactors—specifically, the K-DEMO project!
+
+**Host**: Joining us is Dr. Beom Seok Kim from the National Fusion Research Institute. Hi, Dr. Kim!
+
+**Dr. Beom Seok Kim**: Hi Jane! Thanks for having me. I'm excited to chat about fusion and K-DEMO.
+
+**Host**: Alright, let's start with the basics. What exactly is K-DEMO, and why should we care?
+
+**Dr. Beom Seok Kim**: K-DEMO is a fusion reactor concept in Korea. It's designed to make clean, safe energy.
+
+**Host**: Fusion sounds like sci-fi! But I hear there's a catch—radioactivity. What's up with that?
+
+**Dr. Beom Seok Kim**: Great question! When fusion happens, neutrons slam into the reactor's walls, making them radioactive.
+
+**Host**: So, it's like the reactor gets a neutron sunburn that doesn't fade quickly?
+
+**Dr. Beom Seok Kim**: Exactly! The parts stay 'hot'—not just in temperature, but radioactivity too.
+
+**Host**: And that leads to something called decay heat, right? Can you break that down for us?
+
+**Dr. Beom Seok Kim**: Sure! Even after shutdown, those radioactive parts keep giving off heat—decay heat.
+
+**Host**: So, it's like baking a pizza. Even after you turn off the oven, it's still too hot to eat?
+
+**Dr. Beom Seok Kim**: Perfect analogy! The reactor's parts are like that pizza—still sizzling after shutdown.
+
+**Host**: How much heat are we talking about? Is it like, 'don't touch the stove' hot?
+
+**Dr. Beom Seok Kim**: Right after shutdown, the blankets and divertors can make up to 63 megawatts of heat!
+
+**Host**: Whoa, that's like running thousands of hairdryers at once! How do you cool it down?
+
+**Dr. Beom Seok Kim**: We use cooling systems—water flows through pipes to carry away the heat safely.
+
+**Host**: But you can't just pop the lid and start fixing things, right?
+
+**Dr. Beom Seok Kim**: No way! We have to wait—sometimes days or weeks—until it's safe to go in.
+
+**Host**: What if someone tried to rush it? Like, fixing your phone while it's still overheating?
+
+**Dr. Beom Seok Kim**: You could damage the parts or risk safety. It's like grabbing that hot pizza bare-handed!
+
+**Host**: Ouch! So, how do you know when it's finally safe to start repairs?
+
+**Dr. Beom Seok Kim**: We monitor temperatures and radioactivity. Once they're low enough, it's safe to begin.
+
+**Host**: And what about the radioactive waste? Is that a huge problem for fusion?
+
+**Dr. Beom Seok Kim**: Fusion waste is less dangerous than fission waste. Most can be safely disposed of after cooling.
+
+**Host**: That's a relief! Are there strict rules for handling this waste?
+
+**Dr. Beom Seok Kim**: Absolutely. In Korea, we classify waste by radioactivity and use safe disposal methods.
+
+**Host**: So, cooling time isn't just about safety—it's about following the rules too?
+
+**Dr. Beom Seok Kim**: Exactly! It helps us plan maintenance and disposal, keeping everything safe and efficient.
+
+**Host**: Any cool tricks or tech you use to speed up the cooling process?
+
+**Dr. Beom Seok Kim**: We use active cooling—pumping water through special channels to cool things faster.
+
+**Host**: Sounds high-tech! What's the trickiest part of all this?
+
+**Dr. Beom Seok Kim**: Balancing safety, efficiency, and minimizing waste. It's a real juggling act!
+
+**Host**: If you could give future fusion engineers one tip, what would it be?
+
+**Dr. Beom Seok Kim**: Always respect decay heat. Patience and good cooling save the day—every time!
+
+**Host**: Great advice! So, fusion is promising, but cooling and safety are the real MVPs.
+
+**Dr. Beom Seok Kim**: Absolutely. With smart design and patience, fusion can be a safe energy source.
+
+**Host**: Thanks, Dr. Kim! This was super fun and enlightening. Any final thoughts?
+
+**Dr. Beom Seok Kim**: Just that the future of fusion is bright—and hopefully, not too hot!
+
+**Host**: Love it! Thanks for tuning in, everyone. Stay curious, and see you next time!",2025-07-04 17:37:06.453390
+"{""path"": "".gradio\\cached_examples\\20\\ Podcast\\c12358f0d852c96bb785\\tfoytioo.wav"", ""url"": ""/gradio_api/file=C:\\Users\\vgiraud\\AppData\\Local\\Temp\\gradio\\48d7fcd41daf7a9822c50253981800f65a054649925621777b66c93e5ba80315\\tfoytioo.wav"", ""size"": null, ""orig_name"": ""tfoytioo.wav"", ""mime_type"": null, ""is_stream"": false, ""meta"": {""_type"": ""gradio.FileData""}}","**Host**: Hey everyone! Ever heard of building an artificial sun? Korea's actually doing it!
+
+**Dr. Siwoo Yoon**: Yep! At KSTAR, we're basically trying to bottle the sun right here on Earth.
+
+**Host**: Wait, bottle the sun? That sounds wild. How does that even work?
+
+**Dr. Siwoo Yoon**: We heat plasma to 100 million degrees—hotter than the sun's core! Crazy, right?
+
+**Host**: That's insane! And you just broke a record, didn't you?
+
+**Dr. Siwoo Yoon**: We held that super-hot plasma for 48 seconds, and H-mode for 102 seconds!
+
+**Host**: H-mode? Is that like turbo mode for plasma?
+
+**Dr. Siwoo Yoon**: Exactly! It's when the plasma gets extra stable and efficient—like hitting the gas pedal.
+
+**Host**: I heard you swapped in tungsten parts. Why tungsten?
+
+**Dr. Siwoo Yoon**: Tungsten can take the heat way better than carbon, but it makes things trickier.
+
+**Host**: Trickier how? Does it mess with the plasma?
+
+**Dr. Siwoo Yoon**: Yeah, impurities from tungsten can cool the plasma. We had to tweak everything just right.
+
+**Host**: Sounds stressful! Any fun moments during the experiment?
+
+**Dr. Siwoo Yoon**: Honestly, before our first tungsten run, the team was so hyped—it felt like a rocket launch!
+
+**Host**: So, what's next? Are we close to real fusion power?
+
+**Dr. Siwoo Yoon**: We're aiming for 300 seconds by 2026, with AI helping us control the plasma. Big dreams!
+
+**Host**: That's so cool! Thanks, Dr. Yoon. Can't wait to see what you all do next!",2025-07-04 17:38:28.267309

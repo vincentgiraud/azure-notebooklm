@@ -2,10 +2,6 @@
 constants.py
 """
 
-import os
-
-from pathlib import Path
-
 # Key constants
 APP_TITLE = "Azure NotebookLM"
 CHARACTER_LIMIT = 100_000
@@ -91,20 +87,40 @@ UI_ALLOW_FLAGGING = "never"
 UI_CONCURRENCY_LIMIT = 3
 UI_EXAMPLES = [
     [
-        [str(Path("examples/KFE_news_sample.pdf"))],
-        "",
-        "",
+        ["examples/KFE_news_sample.pdf"],
+        None,
+        """I bet £50 on both teams to score for the past Elfsborg game. 
+        Some information about me: 
+        - Bankroll: "£200",
+        - Avg Bet Size: "£5",
+        - Risk Appetite" "Low",
+        - Betting Style: "Occasional, matchday only",
+        - Teams Followed: "Man United",
+        - Knowledge Strength: "Low (fan-based picks)",
+        - Bet Frequency: "1-2 per week",
+        - Features Used: "Simple match odds, odds boost.
+        Give me extra knowledge to improve my betting""",
         "Fun",
         "Short (1-2 min)",
         "English",
         True,
     ],
     [
-        [str(Path("examples/KFE_paper_sample.pdf"))],
-        "",
-        "",
+        [],
+        "https://betonsport.com/betting-tips/",
+        """I want to bet £15 on the next Inter Turku game.
+        Some information about me: 
+        - Bankroll": "£650",
+        - Avg Bet Size": "£15",
+        - Risk Appetite": "Medium-High",
+        - Betting Style": "Mostly in-play",
+        - Teams Followed": "Chelsea, Man City",
+        - Knowledge Strength": "High (in-game momentum)",
+        - Bet Frequency": "Daily, 4-5 per game",
+        - Features Used": "Live stats, fast markets, cash-out"
+        Give me some context to help me make a bet""",
         "Fun",
-        "Medium (3-5 min)",
+        "Short (1-2 min)",
         "English",
         True,
     ],

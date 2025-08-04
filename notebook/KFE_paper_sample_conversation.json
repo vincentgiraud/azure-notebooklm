@@ -1,11 +1,11 @@
 [
     {
         "speaker": "Host (Alice)",
-        "text": "Hey everyone, welcome back to Science Unplugged! I'm Jane, your host."
+        "text": "Hey everyone, welcome back to Fusion Frontiers! I'm Alice, your host."
     },
     {
         "speaker": "Host (Alice)",
-        "text": "Today, we're cracking open the world of fusion reactors—no lab coat required!"
+        "text": "Today, we're cracking open a hot topic—literally!—about fusion reactors."
     },
     {
         "speaker": "Host (Alice)",
@@ -13,154 +13,158 @@
     },
     {
         "speaker": "Host (Alice)",
-        "text": "Dr. Kim, thanks for coming on. Ready for some tough questions?"
+        "text": "Dr. Kim, thanks for being here. Ready to talk about radioactive leftovers?"
     },
     {
         "speaker": "Guest",
-        "text": "Absolutely, Jane. Fire away—hopefully not literally!"
+        "text": "Absolutely, Alice. It's not the most glamorous part, but it's super important."
     },
     {
         "speaker": "Host (Alice)",
-        "text": "Ha! Okay, fusion is called 'clean' nuclear energy. But is it really waste-free?"
+        "text": "So, fusion gets called 'clean energy' all the time. Is that the whole story?"
     },
     {
         "speaker": "Guest",
-        "text": "Great question. Fusion avoids the nastiest waste, but it’s not totally spotless."
+        "text": "Well, it's cleaner than fission, but fusion still leaves behind some radioactive materials."
     },
     {
         "speaker": "Host (Alice)",
-        "text": "So, what actually gets radioactive in a fusion reactor?"
+        "text": "What actually gets radioactive inside a fusion reactor like K-DEMO?"
     },
     {
         "speaker": "Guest",
-        "text": "Mainly the parts inside the reactor—like blankets and divertors. Neutrons hit them hard."
+        "text": "Mostly the parts inside the reactor—the blankets and divertors—get hit by fusion neutrons."
     },
     {
         "speaker": "Host (Alice)",
-        "text": "Wait, so just being inside makes them radioactive?"
+        "text": "And when you say 'activated,' what does that mean for those parts?"
     },
     {
         "speaker": "Guest",
-        "text": "Exactly. Those speedy neutrons slam into atoms, making some unstable—radioactive."
+        "text": "It means they soak up neutrons and become radioactive themselves, giving off decay heat."
     },
     {
         "speaker": "Host (Alice)",
-        "text": "And when you shut down the reactor, does all that radioactivity just... vanish?"
+        "text": "So, even after you shut down the reactor, it's still hot in there?"
     },
     {
         "speaker": "Guest",
-        "text": "I wish! Even after shutdown, those atoms keep releasing energy—decay heat."
+        "text": "Exactly! It's like when you turn off your oven, but it stays hot for ages."
     },
     {
         "speaker": "Host (Alice)",
-        "text": "Decay heat... Is that like when your oven stays hot after baking cookies?"
+        "text": "How much heat are we talking about after, say, two years of running K-DEMO?"
     },
     {
         "speaker": "Guest",
-        "text": "Perfect analogy! The reactor parts keep 'baking' for days, sometimes weeks."
+        "text": "After shutdown, the blankets and divertors can give off around 63 megawatts of heat."
     },
     {
         "speaker": "Host (Alice)",
-        "text": "How hot are we talking? Like, could you roast marshmallows in there?"
+        "text": "Whoa, that's like running a small power plant just in leftovers!"
     },
     {
         "speaker": "Guest",
-        "text": "Right after shutdown, some spots hit 1300°C. That’s hotter than lava!"
+        "text": "Yeah, it's a lot! If you don't cool them, some modules could hit 1300°C. Not good."
     },
     {
         "speaker": "Host (Alice)",
-        "text": "Whoa, okay, so definitely not s'mores territory. How do you cool things down?"
+        "text": "Yikes! So, cooling isn't just a nice-to-have—it's a must, right?"
     },
     {
         "speaker": "Guest",
-        "text": "At first, we use active cooling—think water rushing through pipes."
+        "text": "Definitely. Without cooling, you risk damaging the reactor and making maintenance impossible."
+    },
+    {
+        "speaker": "Host (Alice)",
+        "text": "How long does it take for things to cool down to a safer temperature?"
     },
     {
         "speaker": "Guest",
-        "text": "Later, as it cools, we switch to natural convection—just air moving heat away."
+        "text": "With natural convection, it takes about 10 days to get down to 200°C."
     },
     {
         "speaker": "Host (Alice)",
-        "text": "How long before it’s safe to, you know, open the door?"
+        "text": "Ten days! That's a long wait for anyone wanting to get inside and fix things."
     },
     {
         "speaker": "Guest",
-        "text": "It takes at least a couple of days to drop below 200°C. Patience is key!"
+        "text": "Exactly. And even then, the radioactivity means only robots can go in for a while."
     },
     {
         "speaker": "Host (Alice)",
-        "text": "And if you skip cooling, what’s the worst that could happen?"
+        "text": "So, what happens if the cooling system fails? Is it like a kitchen disaster?"
     },
     {
         "speaker": "Guest",
-        "text": "Without cooling, you risk cracks, warping—serious damage to the plant."
+        "text": "Pretty much! Imagine leaving a roast in the oven with the door shut—things get messy fast."
     },
     {
         "speaker": "Host (Alice)",
-        "text": "So, cooling isn’t just for comfort. It’s about keeping the whole place safe."
+        "text": "You mentioned regulations. How does Korea decide if this waste is safe to bury?"
     },
     {
         "speaker": "Guest",
-        "text": "Exactly. It’s a huge part of our safety planning and design."
+        "text": "We check if it's low-level waste. If it is, it can go to shallow land burial sites safely."
     },
     {
         "speaker": "Host (Alice)",
-        "text": "What about the waste? Where does it all go?"
+        "text": "Are there any elements that keep you up at night?"
     },
     {
         "speaker": "Guest",
-        "text": "Most fusion waste is low-level. We can usually bury it in shallow land sites."
+        "text": "Long-lived ones like carbon-14 and cobalt-60, but in K-DEMO, they're below the safety limits."
     },
     {
         "speaker": "Host (Alice)",
-        "text": "That sounds way less scary than traditional nuclear waste."
+        "text": "That's a relief! So, is fusion still safer than fission when it comes to waste?"
     },
     {
         "speaker": "Guest",
-        "text": "It is. Plus, we track long-lived isotopes to make sure it stays safe."
+        "text": "Yes, overall. Fusion waste is less dangerous and easier to manage, but it still needs care."
     },
     {
         "speaker": "Host (Alice)",
-        "text": "Can you recycle any of these radioactive parts?"
+        "text": "Can you recycle or reuse any of these radioactive parts?"
     },
     {
         "speaker": "Guest",
-        "text": "We’re working on it! Recycling and reusing materials is a big focus now."
+        "text": "Absolutely! Recycling helps cut down waste and makes maintenance smoother."
     },
     {
         "speaker": "Host (Alice)",
-        "text": "It sounds like a juggling act—safety, efficiency, and the environment."
+        "text": "If you could bust one myth about fusion, what would it be?"
     },
     {
         "speaker": "Guest",
-        "text": "You nailed it. Every choice impacts safety, cost, and our planet."
+        "text": "That fusion is totally clean. It's cleaner, but not spotless—there's still some waste."
     },
     {
         "speaker": "Host (Alice)",
-        "text": "What excites you most about the future of fusion safety?"
+        "text": "Looking ahead, how will your research help future reactors?"
     },
     {
         "speaker": "Guest",
-        "text": "Honestly, smarter designs—better materials, better cooling. It’s getting safer every year."
+        "text": "It helps us design better cooling and safer maintenance, making fusion more practical."
     },
     {
         "speaker": "Host (Alice)",
-        "text": "So, fusion isn’t just about making energy. It’s about managing what we leave behind."
+        "text": "So, fusion's future is bright, but we need to be smart about heat and waste."
     },
     {
         "speaker": "Guest",
-        "text": "Exactly. Responsible waste and heat management are key for fusion’s future."
+        "text": "Exactly. With good planning, fusion can be a safe, sustainable energy source."
     },
     {
         "speaker": "Host (Alice)",
-        "text": "Dr. Kim, this was eye-opening. Thanks for making fusion a little less mysterious!"
+        "text": "Dr. Kim, this was eye-opening—and a little spicy! Thanks for joining us."
+    },
+    {
+        "speaker": "Guest",
+        "text": "Thank you, Alice. Always happy to talk about the hot side of fusion!"
     },
     {
         "speaker": "Host (Alice)",
-        "text": "And listeners, next time you hear 'clean energy,' remember the science behind the scenes."
-    },
-    {
-        "speaker": "Host (Alice)",
-        "text": "Thanks for tuning in to Science Unplugged. Stay curious, and see you next time!"
+        "text": "And thanks to our listeners. Stay curious, and catch us next time on Fusion Frontiers!"
     }
 ]
